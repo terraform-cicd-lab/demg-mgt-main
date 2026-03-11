@@ -1,3 +1,4 @@
+enable_vm                     = false
 location                      = "uksouth"
 resource_name_workload        = "demo"
 resource_name_environment     = "dev"
